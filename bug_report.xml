@@ -1,1 +1,12 @@
+<xml>
+  
+<p1>name:the Send button is not clickable</p1>
+<p2>priority:high</p2>
+<p3>environment:Android 10, Chrome 100.2</p3>
+<p4>step1:open messenger</p4>
+<p5>step2:open a conversation with user c helen12</p5>
+<p6>step3:write any message</p6>
+<p7>step4:click the send button</p7>
+<p8>expected result:the message has been sent</p8>
+<p9>actual result:the Send button is not clickable</p9>
 
