@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  
+  <report>
 <p1>name:the Send button is not clickable</p1>
 <p2>priority:high</p2>
 <p3>environment:Android 10, Chrome 100.2</p3>
@@ -9,4 +9,4 @@
 <p7>step4:click the send button</p7>
 <p8>expected result:the message has been sent</p8>
 <p9>actual result:the Send button is not clickable</p9>
-
+</report>
